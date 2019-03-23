@@ -1,0 +1,2 @@
+# readyschool
+School Management Application
